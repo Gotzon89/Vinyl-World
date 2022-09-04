@@ -30,7 +30,7 @@ class ForgotPassword : AppCompatActivity() {
         // Flecha atras
         val flechaAtras = findViewById<ImageView>(R.id.flechaAtras)
         flechaAtras.setOnClickListener {
-            val intent = Intent(this, LoginActivity::class.java)
+            val intent = Intent(this, Login::class.java)
             startActivity(intent)
         }
     }
