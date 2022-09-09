@@ -18,7 +18,7 @@
             android:layout_width="115dp"
             android:layout_height="109dp"
             android:layout_gravity="center"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="15dp"
             android:layout_marginBottom="5dp"
             android:contentDescription="@string/logo_registro"
             android:foregroundGravity="center"
