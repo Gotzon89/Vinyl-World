@@ -163,7 +163,7 @@
             android:foregroundGravity="center_vertical"
             android:text="@string/registrarse"
             android:textColor="@color/black"
-            android:textSize="16sp" />
+            android:textSize="20sp" />
 
     </LinearLayout>
 
